@@ -1,0 +1,62 @@
+<Start Time>50356291.4861</Start Time>
+
+<Finish Time>50367788.5085</FinishTime>
+
+<Speaking time> 
+
+<speaking>
+<time started> 50361356.3423</time started>
+<time finished>50365886.6852</time finished>
+<average volume>0</average volume>
+<max volume>0.607434809207916</max volume>
+<min volume>0.497756391763687</min volume>
+</speaking>
+</Speaking time>
+
+<Pausing time>
+
+</Pausing time>
+
+<Mistakes>
+
+</Mistakes>
+
+<Freestyle Feedbacks>
+
+<feedback> HIGH_VOLUME
+<time started>50361685.6572</time started>
+<time finished>50362753.6812</time finished>
+</feedback>
+</Freestyle Feedbacks>
+
+<Gestures>
+
+big 50361369.3536
+nogesture 50361384.3688
+small 50361449.4311
+medium 50361484.4658
+big 50361517.4971
+small 50361683.6557
+medium 50361817.7843
+big 50361916.8807
+nogesture 50361983.9611
+small 50362117.0723
+medium 50362250.1985
+big 50362317.2628
+nogesture 50362516.4548
+big 50365685.4949
+nogesture 50365717.5267
+small 50365751.5564
+</Gestures>
+
+<Interruptions>
+
+</Interruptions>
+
+<Individual Skills>
+
+</Individual Skills>
+
+<Individual Skills Feedback>
+
+</Individual Skills Feedback>
